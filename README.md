@@ -1,10 +1,10 @@
 # AI-Based Personalized Product Recommendation System
 
+Final project for the Building AI course
+
 ## Summary
 
 This project explores how artificial intelligence can recommend beauty and personal care products based on users' preferences, product features, and individual needs. The goal is to make product discovery easier by providing relevant and personalized recommendations.
-
-This is my project for the Building AI course.
 
 ## Background
 
